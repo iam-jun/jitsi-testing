@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jitsi-testing/static/css/main.8abbffa1.css",
+    "main.js": "/jitsi-testing/static/js/main.c65c18a8.js",
+    "static/js/787.7fbf084d.chunk.js": "/jitsi-testing/static/js/787.7fbf084d.chunk.js",
+    "static/media/logo.png": "/jitsi-testing/static/media/logo.aeff4e05e08ede6c6389.png",
+    "index.html": "/jitsi-testing/index.html",
+    "main.8abbffa1.css.map": "/jitsi-testing/static/css/main.8abbffa1.css.map",
+    "main.c65c18a8.js.map": "/jitsi-testing/static/js/main.c65c18a8.js.map",
+    "787.7fbf084d.chunk.js.map": "/jitsi-testing/static/js/787.7fbf084d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8abbffa1.css",
+    "static/js/main.c65c18a8.js"
+  ]
+}
